@@ -1,0 +1,12 @@
+%数学之心
+figure;
+clc;
+x=-2:0.01:2;
+y=sqrt(2*sqrt(x.^2)-x.^2);
+z=asin(abs(x)-1)-pi./2;
+plot(x,y);
+grid on;
+hold on;%在一个图中画多个图
+plot(x,z);
+title('');
+legend('心');

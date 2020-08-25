@@ -1,0 +1,8 @@
+
+# 73、76、79、86、69、85 对应的 ASCII
+print(chr(73))    # I
+print(chr(76))    # L
+print(chr(79))    # O
+print(chr(86))    # V
+print(chr(69))    # E    
+print(chr(85))    # U
