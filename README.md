@@ -104,11 +104,11 @@ print('\n'.join([''.join([('Love'[(x-y) % len('Love')] if ((x*0.05)**2+(y*0.1)**
 ![dcuhSs.png](https://s1.ax1x.com/2020/08/25/dcuhSs.png)
 点击确定，结束程序。
 (2-2)如果点否，出现以下弹窗。
-![image-20200825142521449](C:%5CUsers%5C%E4%B8%B6Melody%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200825142521449.png)
+![dcMXs1.png](https://s1.ax1x.com/2020/08/25/dcMXs1.png)
 点击确定后，提示关机计划取消。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200430164901824.png)
 然后出现以下弹窗。
-![image-20200825142537135](C:%5CUsers%5C%E4%B8%B6Melody%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200825142537135.png)
+![dcM5ZV.png](https://s1.ax1x.com/2020/08/25/dcM5ZV.png)
 点击确定，结束程序。
 
 ## 代码/文本片段
