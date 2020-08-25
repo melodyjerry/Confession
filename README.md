@@ -14,7 +14,7 @@
 
 ### css实现I Love You 效果
 
-演示：[http://melodyjerry.gitee.io/confession/HTML/css%E5%AE%9E%E7%8E%B0I%20Love%20You%20%E6%95%88%E6%9E%9C/demo.html](http://melodyjerry.gitee.io/confession/HTML/css实现I Love You 效果/demo.html)
+演示：[http://melodyjerry.gitee.io/confession/HTML/css%E5%AE%9E%E7%8E%B0I%20Love%20You%20%E6%95%88%E6%9E%9C/demo.html](http://melodyjerry.gitee.io/confession/HTML/css%E5%AE%9E%E7%8E%B0I%20Love%20You%20%E6%95%88%E6%9E%9C/demo.html)
 
 <img src="https://mmbiz.qpic.cn/mmbiz_gif/vqlbVFl5Jn2Gk00ySqvydEPyNfibYHPcHXp9zLBHQQ2HANa0OVzicey9ria2eaLkzEpx93WiaEYFro9hwtsicviaI0ow/640?wx_fmt=gif&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1" alt="img" style="zoom:50%;" />
 
