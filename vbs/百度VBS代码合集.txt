@@ -1,0 +1,107 @@
+说自己是傻逼，不然关机
+
+on error resume next 
+dim WSHshellA 
+set WSHshellA = wscript.createobject("wscript.shell") 
+WSHshellA.run "cmd.exe /c shutdown -r -t 60 -c ""说你是傻B，我是天下第一大傻B不说宝宝，我是天下第一大傻B就一分钟关你机，不信，试试···"" ",0 ,true 
+dim a 
+do while(a <> "宝宝，我是天下第一大傻B") 
+a = inputbox ("宝宝，我是天下第一大傻B,就不关机，快撒，说 ""宝宝，我是天下第一大傻B""　","说不说","不说",8000,7000) 
+msgbox chr(13) + chr(13) + chr(13) + a,0,"MsgBox" 
+loop 
+msgbox chr(13) + chr(13) + chr(13) + "早说就行了嘛，乖乖" 
+dim WSHshell 
+set WSHshell = wscript.createobject("wscript.shell") 
+WSHshell.run "cmd.exe /c shutdown -a",0 ,true 
+msgbox chr(13) + chr(13) + chr(13) + "宝宝是不是又帅啦？？" 
+
+网页恶搞代码
+
+<html> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"> 
+<title>网页特效|Linkweb.cn/Js|---很恶心的常见整人效果</title> 
+</head> 
+<body> 
+<a href="" onMouseover="alert('为什么把鼠标放到这里?'); 
+alert('我不是说过不可以这样吗？'); 
+alert('你把我的话当什么了？'); 
+alert('你知道错了吗？'); 
+alert('什么？你居然....'); 
+alert('居然还没意识到自己做错了？'); 
+alert('那好，你要为此付出代价!'); 
+alert('我要你在这里点足一千下......'); 
+alert('什么？你开始有点后悔了？'); 
+alert('何必呢？'); 
+alert('你当初干什么去了？'); 
+alert('不原谅你！'); 
+alert('好从现在开始再点995下......'); 
+alert('你的手开始累了吗?'); 
+alert('什么？你已经没力气了？'); 
+alert('你一直在求我原谅你啊！'); 
+alert('看来你是真的知道错了!'); 
+alert('下次你还会这么做吗？'); 
+alert('真的不会了？'); 
+alert('那好，今天就放你一马！'); 
+alert('写封信给我说声对不起!'); 
+alert('你能这么做我很高兴!!!'); 
+document.bgColor='black'; 
+document.fgColor='White'; 
+window.location.href='mailto:mygod@god?subject=对不起,下次不敢了!';">不许把鼠标移到这里</a> 
+
+嘻试吧爽噢。。 
+
+</body> 
+</html> 
+
+输入框，不然就关机
+
+set ws=createobject("wscript.shell") 
+call shutdown(1) 
+do while a<>"我是猪" 
+a=inputbox("快在下面的框框里输入我是猪,否则后果自负，快输""我是猪"" ","输不输","") 
+loop 
+call shutdown(2) 
+msgbox "早说就行了嘛",4096+64 
+msgbox"再输一遍我是猪!",4096+64 
+msgbox"我是猪!",4096+64 
+MsgBox"最后一次!",4096+64 
+MsgBox"如果你很快的点过去,不看的话",4096+64 
+MsgBox"我就要你踩我空间的!哼!",4096+64 
+MsgBox"从前有座山!",4096+64 
+MsgBox"山里有个庙.",4096+64 
+MsgBox"庙里有个老和尚在讲故事.",4096+64 
+ws.run"iexplore.exe http://new.qzone.qq.com/137841986/infocenter" 
+msgbox"哎呀累了！数绵羊哄我睡觉",4096+64 
+for i=1 to 100 
+MsgBox i&"只绵羊",4096+64 
+next 
+msgbox"哎呀我困了，这次就饶过你吧，下次注意哦!",4096+64 
+msgbox"最后问个问题，我是不是大好人！",4096+64 
+if inputbox("是不是","请选择","是")<>"是" then 
+call shutdown(1) 
+end if 
+sub shutdown(s) 
+select case s 
+case 1 
+ws.run"cmd.exe /c shutdown -r -t 60 -c",0 
+case 2 
+ws.run"cmd.exe /c shutdown -a",0 
+end select 
+end sub 
+
+表白代码
+
+msgbox "做我女朋友好吗",vbQuestion,"在吗"
+msgbox ("房产写你名字")
+msgbox ("保大")
+msgbox ("我妈会游泳")
+dim j
+do while j<1
+Select Case msgbox("做我女朋友好吗",68,"请郑重的回答我")
+Case 6 j=1
+Case 7 msgbox("再给你一次机会")
+end Select
+loop
+msgbox("我就知道你会同意的，哈哈哈哈")
+

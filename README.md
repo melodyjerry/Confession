@@ -84,6 +84,16 @@ print('\n'.join([''.join([('Love'[(x-y) % len('Love')] if ((x*0.05)**2+(y*0.1)**
 
 ![img](https://mmbiz.qpic.cn/mmbiz_png/vqlbVFl5Jn2Gk00ySqvydEPyNfibYHPcH8XhZhp3HLicNL4iakXPBDk6vCtbCic9ytmT71sMUicrH8AN0497DtNtyibg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
+## C#
+
+![dc17i8.png](https://s1.ax1x.com/2020/08/25/dc17i8.png)
+
+## 易语言
+
+![dc3IX9.png](https://s1.ax1x.com/2020/08/25/dc3IX9.png)
+
+
+
 ## vbs
 
 - 提供4种，以下仅仅展示其中一个
